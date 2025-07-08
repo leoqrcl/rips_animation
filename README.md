@@ -1,4 +1,4 @@
-Soit $P$ un ensemble fini de points. La \textbf{filtration de Vietoris–Rips} est définie par :
+Soit $P$ un ensemble fini de points. La $\textbf{filtration de Vietoris–Rips}$ est définie par :
 $$
 \mathcal{R}(P) := (R(P,t))_{t \in \mathbb{R}}
 $$
